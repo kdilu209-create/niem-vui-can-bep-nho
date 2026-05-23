@@ -156,24 +156,6 @@ Giới thiệu website/brand trên trang chủ
 
 ---
 
-## 🚀 Cách Deploy
-
-### Option 1: GitHub Pages (Recommended)
-
-1. Đẩy code lên GitHub
-2. Vào **Settings** → **Pages**
-3. Chọn **Deploy from a branch**
-4. Branch: `main`, Folder: `/root`
-5. Website sẽ live tại: `https://[username].github.io/[repo-name]/`
-
-### Option 2: Deploy Khác
-
-- **Netlify**: Kết nối GitHub, tự động deploy
-- **Vercel**: Similar to Netlify
-- **SSH Upload**: Upload trực tiếp lên server
-
----
-
 ## 📊 SEO & Analytics
 
 ### Google Search Console
